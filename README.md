@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Desenvolvedor+em+formação;Aberto+a+novos+desafios" alt="Typing SVG" />
 </p>
+![Background](https://i.imgur.com/jxqV0Y6.png)
+
+![Loading animation](https://loading.io/spinners/double-ring/lg.double-ring-spinner.gif)
 
 ---
 
@@ -59,6 +62,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GetNoLies&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetNoLies&layout=compact&langs_count=6&theme=radical"/>
 </p>
+
+---
+
+## Animação legal SVG
+
+<img src="https://raw.githubusercontent.com/GetNoLies/animated-svg/main/animation.svg" width="150" />
 
 ---
 
