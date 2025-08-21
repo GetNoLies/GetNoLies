@@ -64,7 +64,7 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/symon-barbosa-7a5b35236)  
+- 💼 [LinkedIn](www.linkedin.com/in/symon-campos-7a5b35236)  
 
 ---
 
