@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Symon Campos!</h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação | Apaixonado por tecnologia 💻🚀
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação | Tecnologia e desenvolvimento 💻🚀
 </p>
 
 <p align="center">
